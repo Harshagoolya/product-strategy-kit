@@ -6,5 +6,15 @@
     "name": "Harsha G"
   },
   "license": "MIT",
-  "keywords": ["product-management", "strategy", "competitive-analysis", "defensibility", "moat", "due-diligence", "research"]
+  "keywords": [
+    "product-management",
+    "strategy",
+    "competitive-analysis",
+    "defensibility",
+    "moat",
+    "due-diligence",
+    "research"
+  ],
+  "homepage": "https://github.com/harshagoolya/product-strategy-kit",
+  "repository": "https://github.com/harshagoolya/product-strategy-kit"
 }

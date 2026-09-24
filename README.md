@@ -29,17 +29,17 @@ Your lens changes the framing: operator/PM (the default), investor, acquirer, pa
 ### Claude Code
 
 ```
-/plugin marketplace add <your-github-username>/product-strategy-kit
+/plugin marketplace add harshagoolya/product-strategy-kit
 /plugin install product-strategy-kit@product-strategy-kit
 ```
 
 ### Claude desktop app (Cowork)
 
-Download `product-strategy-kit.plugin` from the [latest release](../../releases/latest) and open it in the app to install the plugin. If your app version supports adding plugin marketplaces from GitHub, you can add this repo instead.
+Download `product-strategy-kit.plugin` from the [latest release](https://github.com/harshagoolya/product-strategy-kit/releases/latest) and open it in the app to install the plugin. If your app version supports adding plugin marketplaces from GitHub, you can add this repo instead.
 
 ### claude.ai (web)
 
-1. Download `product-direction-research.zip` from the [latest release](../../releases/latest).
+1. Download `product-direction-research.zip` from the [latest release](https://github.com/harshagoolya/product-strategy-kit/releases/latest).
 2. Go to **Customize → Skills** and upload the ZIP.
 3. Make sure code execution is enabled in your settings. Skills need it.
 
