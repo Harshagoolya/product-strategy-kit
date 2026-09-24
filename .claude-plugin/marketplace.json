@@ -1,0 +1,19 @@
+{
+  "name": "product-strategy-kit",
+  "owner": {
+    "name": "Harsha G"
+  },
+  "metadata": {
+    "description": "Skills for product leaders assessing companies, strategy and defensibility.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "product-strategy-kit",
+      "source": "./plugins/product-strategy-kit",
+      "description": "Product direction and defensibility assessments with an optional cross-model review.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

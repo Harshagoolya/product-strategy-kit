@@ -1,0 +1,10 @@
+{
+  "name": "product-strategy-kit",
+  "version": "0.1.0",
+  "description": "Executive-grade product direction and defensibility assessments of any company: funding, customer and developer signal, architecture, moats, AI-era tests, scored opportunities, revenue scenarios, leadership charters, and an optional cross-model review by Gemini or GPT.",
+  "author": {
+    "name": "Harsha G"
+  },
+  "license": "MIT",
+  "keywords": ["product-management", "strategy", "competitive-analysis", "defensibility", "moat", "due-diligence", "research"]
+}
